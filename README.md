@@ -47,6 +47,6 @@ All contributions are the result of collaborative teamwork. Meet the awesome tea
 - [Sabrina Benford](https://github.com/SabrinaB286)
 
 Feel free to connect with each team member via their GitHub profiles!
-## License
+<!--## License
 
-This software is distributed under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the software for any purpose, subject to the terms outlined in the license agreement.
+This software is distributed under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the software for any purpose, subject to the terms outlined in the license agreement.-->
